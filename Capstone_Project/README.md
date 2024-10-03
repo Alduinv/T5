@@ -88,7 +88,7 @@ Abdullah Altamimi (am.altamimi24@gmail.com)
 
 Saad-alkathiri (Saad@s3d340.com)
 
-Nawaf Alomier ()
+Nawaf Alomier (NawafAlomeir@outlook.com)
 
 
 
