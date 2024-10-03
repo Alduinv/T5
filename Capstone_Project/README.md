@@ -79,6 +79,10 @@ this is a sample for the Severity model
 ![val_batch0_pred](https://github.com/user-attachments/assets/0e1fae7f-36d7-43c7-ba1f-c19b1d99a780)
 
 
+## Dashboard
+![image](https://github.com/user-attachments/assets/7adf4d81-ce75-42f6-a4d5-96e4666ca57c)
+
+
 ### Team:
 Abdullah Altamimi (am.altamimi24@gmail.com)
 
