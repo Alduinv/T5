@@ -49,14 +49,22 @@ The API saves the results (severity and GPS location) in a database.
 Power BI pulls the data from the database to visualize pothole locations and statistics, aiding road maintenance efforts.
 
 ## tools
-Hardware: Raspberry Pi 4, Dash Cam, GPS module
-Software:
+### Hardware: 
+
+Raspberry Pi 4, Dash Cam, GPS module
+
+### Software:
+
 YOLOv8 (Object Detection)
 Python
-Flask (API Backend)
+Fastapi (as backend)
 Power BI (Dashboard Visualization)
-Database: PostgreSQL (or any preferred relational database)
-Tools:
+
+### Database: 
+
+Mongodb
+
+### Tools:
 Power BI for visualization
 YOLOv8 for object detection and severity classification
 
