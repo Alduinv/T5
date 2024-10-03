@@ -48,6 +48,17 @@ The API passes the image to another YOLOv8 model to classify the severity of the
 The API saves the results (severity and GPS location) in a database.
 Power BI pulls the data from the database to visualize pothole locations and statistics, aiding road maintenance efforts.
 
+## tools
+Hardware: Raspberry Pi 4, Dash Cam, GPS module
+Software:
+YOLOv8 (Object Detection)
+Python
+Flask (API Backend)
+Power BI (Dashboard Visualization)
+Database: PostgreSQL (or any preferred relational database)
+Tools:
+Power BI for visualization
+YOLOv8 for object detection and severity classification
 
 ## Demo:
 
