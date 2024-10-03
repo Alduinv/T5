@@ -52,12 +52,14 @@ Power BI pulls the data from the database to visualize pothole locations and sta
 ## Demo:
 
 This is a demo of the Detection model
-https://github.com/user-attachments/assets/2f60d69c-e6a7-4e32-99ec-86c0d12c8997
+![segTest](https://github.com/user-attachments/assets/2f60d69c-e6a7-4e32-99ec-86c0d12c8997)
 
 ##Samples:
 
 this is a sample for the Severity model
 ![val_batch0_pred](https://github.com/user-attachments/assets/0e1fae7f-36d7-43c7-ba1f-c19b1d99a780)
+
+
 
 
 
