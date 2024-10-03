@@ -62,6 +62,9 @@ this is a sample for the Severity model
 
 ### Team:
 Abdullah Altamimi (am.altamimi24@gmail.com)
+Saad-alkathiri (Saad@s3d340.com)
+Nawaf Alomier ()
+
 
 
 
